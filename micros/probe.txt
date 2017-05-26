@@ -1,0 +1,9 @@
+
+
+G38.2 Z-20 F150;G0Z3;G38.2 Z-5 F25;G92Z1.6
+
+Steps : 
+	Probe (Feed:150)
+	Move Z-axis up : G0 Z3
+	Probe (Feed:25)	
+	Update Position : G92 Z1.6

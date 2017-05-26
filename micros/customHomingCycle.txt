@@ -1,0 +1,9 @@
+
+$22=1;$h;$22=0;G92X0Y0Z0;G0Z5;
+
+Steps : 
+	Homing Enable
+	Homing Cycle
+	Homing Disabled
+	Reset X,Y,Z axis
+	Z=5
